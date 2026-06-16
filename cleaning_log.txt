@@ -1,0 +1,4 @@
+Column names standardized.
+Missing values handled: 9
+Duplicates removed: 0
+Date column converted to datetime format.

@@ -1,0 +1,27 @@
+employee_id,name,age,department,join_date,salary,email
+101,John Smith,25.0,IT,2023-01-15,50000,john@example.com
+102,Sarah Johnson,28.761904761904763,HR,2023-02-10,60000,sarah@example.com
+103,Mike Brown,30.0,Finance,,70000,mike@example.com
+104,Emma Davis,28.0,IT,2024-01-01,65000,emma@example.com
+105,Chris Wilson,35.0,Marketing,2022-11-20,55000,chris@example.com
+106,Olivia Taylor,29.0,HR,2023-04-12,62000,olivia@example.com
+107,Daniel Moore,28.761904761904763,Finance,2023-05-18,71000,daniel@example.com
+108,Sophia White,26.0,IT,2023-06-01,58000,sophia@example.com
+109,James Martin,31.0,Marketing,,59000,james@example.com
+110,Ava Thompson,27.0,HR,2024-01-01,61000,ava@example.com
+111,John Smith,25.0,IT,2023-01-15,50000,john@example.com
+112,William Garcia,34.0,Finance,2023-08-10,72000,william@example.com
+113,Isabella Martinez,28.761904761904763,IT,2023-09-12,63000,isabella@example.com
+114,Benjamin Anderson,32.0,Marketing,,57000,benjamin@example.com
+115,Mia Thomas,24.0,HR,2023-11-18,54000,mia@example.com
+116,Ethan Jackson,29.0,Finance,2024-01-01,68000,ethan@example.com
+117,Charlotte Harris,28.0,IT,2023-12-02,64000,charlotte@example.com
+118,Lucas Clark,28.761904761904763,Marketing,2024-01-15,56000,lucas@example.com
+119,Amelia Lewis,30.0,HR,,62000,amelia@example.com
+120,Henry Walker,33.0,Finance,2024-03-20,73000,henry@example.com
+121,Evelyn Hall,27.0,IT,2024-01-01,65000,evelyn@example.com
+122,Alexander Allen,31.0,Marketing,2024-04-18,58000,alex@example.com
+123,Harper Young,26.0,HR,,61000,harper@example.com
+124,Michael King,28.761904761904763,Finance,2024-06-08,70000,michael@example.com
+125,Abigail Wright,29.0,IT,2024-07-14,66000,abigail@example.com
+126,John Smith,25.0,IT,2023-01-15,50000,john@example.com
